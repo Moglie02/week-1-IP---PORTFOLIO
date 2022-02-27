@@ -176,7 +176,6 @@ nav {
     padding: 20px 0;
     align-items: center;
     justify-content: space-between;
-
 }
 
 nav ul li {
@@ -252,6 +251,26 @@ nav ul li a:hover {
     padding: 3rem !important;
 }
 
+.far fa-calendar{
+width:24px;opacity:0.85
+}
+fa fa-envelope{
+    width:24px;
+    opacity:0.85;"
+}
+fab fa-skype{
+width:24px;
+opacity:0.85;
+}
+
+fas fa-phone{
+    width:24px;
+    opacity:0.85;
+}
+fas fa-map-marker{
+width:24px;
+opacity:0.85
+}
 .my-5 {
     margin-top: 3rem !important;
     margin-bottom: 3rem !important;
